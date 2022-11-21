@@ -13,13 +13,13 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Test-2_ver4" />
+              <option name="title_text" value="Test-2_ver5" />
             </options>
           </option>
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/5krZo8nD9DN.png" />
+              <option name="html5_logo_url" value="mobile/5hOW9dBTUoX.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1573,7 +1573,6 @@
             <slidelink slideid="_player.5oYW3F1Wve7.5Zn8HJ0kdAp" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5oYW3F1Wve7.5piskZXy7Al" displaytext="Video Layer" expand="false" type="slide" />
             <slidelink slideid="_player.5oYW3F1Wve7.6H57LuKdc1Q" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5oYW3F1Wve7.5wecdpcUUqc" displaytext="Delivering the package" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

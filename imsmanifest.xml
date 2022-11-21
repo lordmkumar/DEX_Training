@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Test-2_ver4</langstring>
+          <langstring xml:lang="x-none">Test-2_ver5</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Test-2_ver4_ORG">
-    <organization identifier="Test-2_ver4_ORG">
-      <title>Test-2_ver4</title>
+  <organizations default="Test-2_ver5_ORG">
+    <organization identifier="Test-2_ver5_ORG">
+      <title>Test-2_ver5</title>
       <item identifier="Test_SCO" isvisible="true" identifierref="__64NJHuCXwb3_RES">
-        <title>Test-2_ver4</title>
+        <title>Test-2_ver5</title>
       </item>
     </organization>
   </organizations>
@@ -70,8 +70,10 @@
       <file href="mobile/5XJpXm7OLXr.png" />
       <file href="mobile/6NfKq4XymVR.png" />
       <file href="mobile/5ve2Srh1C7L_M_1118_1118.png" />
+      <file href="story_content/6Rp9gklDYtb_44100_48_0.mp3" />
       <file href="story_content/6ckY9A5vDUN.js" />
       <file href="mobile/5WnWZgq7QLO.gif" />
+      <file href="story_content/5fQNmjgvF2t_44100_48_0.mp3" />
       <file href="mobile/6fm3O0cHGvi_M_1106_1106.png" />
       <file href="mobile/5cOPzvVhRPP_M_166_166.png" />
       <file href="mobile/5WcNHHUEj5w_M_164_164.png" />
@@ -87,10 +89,11 @@
       <file href="story_content/video_5i7kIvHmH0l_22_48_1280x720.mp4" />
       <file href="mobile/poster_5t3BqVcjsuk_video_5i7kIvHmH0l_22_48_1280x720.jpg" />
       <file href="mobile/6cZRa3VAQtn.png" />
-      <file href="mobile/6ZFXoAY4UNm.png" />
       <file href="mobile/5yRGg0w6hLC.png" />
+      <file href="mobile/5zM0Qf4e70b.png" />
+      <file href="mobile/6ZFXoAY4UNm.png" />
       <file href="meta.xml" />
-      <file href="mobile/5krZo8nD9DN.png" />
+      <file href="mobile/5hOW9dBTUoX.png" />
       <file href="story_content/user.js" />
       <file href="mobile/Shape6JSosuNPaiv.png" />
       <file href="mobile/Highlight_Shape6JSosuNPaiv.png" />
@@ -101,7 +104,6 @@
       <file href="html5/data/js/5ePFQhr6Tuv.js" />
       <file href="html5/data/js/5piskZXy7Al.js" />
       <file href="html5/data/js/5vy4R7iJMcU.js" />
-      <file href="html5/data/js/5wecdpcUUqc.js" />
       <file href="html5/data/js/5XZqEQVqMo1.js" />
       <file href="html5/data/js/5Zn8HJ0kdAp.js" />
       <file href="html5/data/js/6ekPMw1PSsG.js" />
