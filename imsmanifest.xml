@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Test-2</langstring>
+          <langstring xml:lang="x-none">Test-2_ver3</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Test-2_ORG">
-    <organization identifier="Test-2_ORG">
-      <title>Test-2</title>
+  <organizations default="Test-2_ver3_ORG">
+    <organization identifier="Test-2_ver3_ORG">
+      <title>Test-2_ver3</title>
       <item identifier="Test_SCO" isvisible="true" identifierref="__64NJHuCXwb3_RES">
-        <title>Test-2</title>
+        <title>Test-2_ver3</title>
       </item>
     </organization>
   </organizations>
@@ -72,16 +72,28 @@
       <file href="mobile/5ve2Srh1C7L_M_840_840.png" />
       <file href="story_content/6ckY9A5vDUN.js" />
       <file href="mobile/5WnWZgq7QLO.gif" />
+      <file href="mobile/6fm3O0cHGvi_M_830_830.png" />
+      <file href="mobile/5cOPzvVhRPP_M_124_124.png" />
+      <file href="mobile/5WcNHHUEj5w_M_124_124.png" />
+      <file href="mobile/6fnr2VbN7lF_M_124_124.png" />
+      <file href="mobile/68E0D0s1cJr_M_124_124.png" />
       <file href="mobile/5niwXAFkqUU.gif" />
+      <file href="mobile/5alF6qHwdgQ_M_596_596.png" />
+      <file href="mobile/6gAwGFGJxfi.png" />
+      <file href="story_content/video_5i7kIvHmH0l_22_48_960x540.mp4" />
+      <file href="mobile/poster_5t3BqVcjsuk_video_5i7kIvHmH0l_22_48_960x540.jpg" />
+      <file href="mobile/6cZRa3VAQtn.png" />
       <file href="meta.xml" />
-      <file href="mobile/6mKbwBvAKF8.png" />
+      <file href="mobile/6b7HxnnrWq8.png" />
       <file href="story_content/user.js" />
       <file href="mobile/Shape6JSosuNPaiv.png" />
       <file href="mobile/Highlight_Shape6JSosuNPaiv.png" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5ePFQhr6Tuv.js" />
+      <file href="html5/data/js/5piskZXy7Al.js" />
       <file href="html5/data/js/5vy4R7iJMcU.js" />
       <file href="html5/data/js/5XZqEQVqMo1.js" />
+      <file href="html5/data/js/5Zn8HJ0kdAp.js" />
       <file href="html5/data/js/6ekPMw1PSsG.js" />
       <file href="html5/data/js/6H11qvyriOP.js" />
       <file href="html5/data/js/6HE4nsqIlQd.js" />
